@@ -408,9 +408,9 @@
     <Content Include="Areas\Admin\Views\AdminHome\AddResource.cshtml" />
     <Content Include="Areas\Admin\Views\AdminHome\EditResource.cshtml" />
     <Content Include="Areas\Admin\Views\Login\SignUp.cshtml" />
-    <Content Include="Areas\Admin\Views\Catelogy\Create.cshtml" />
     <Content Include="Areas\Admin\Views\Catelogy\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Catelogy\Edit.cshtml" />
+    <Content Include="Areas\Admin\Views\Catelogy\Create.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
